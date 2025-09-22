@@ -1,1 +1,1 @@
-# avito-task
+# Avito DS Internship 2025
